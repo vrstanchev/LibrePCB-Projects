@@ -1,0 +1,103 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Device_Amperemeter_AC
+#
+DEF Device_Amperemeter_AC MES 0 1 N N 1 F N
+F0 "MES" -130 40 50 H V R CNN
+F1 "Device_Amperemeter_AC" -130 -30 50 H V R CNN
+F2 "" 0 100 50 V I C CNN
+F3 "" 0 100 50 V I C CNN
+DRAW
+A -20 -54 21 -1633 -167 0 1 0 N -40 -60 0 -60
+A 20 -65 21 140 1660 0 1 0 N 40 -60 0 -60
+C 0 0 100 0 1 10 N
+T 0 0 25 100 0 0 0 A Normal 0 C C
+P 2 0 0 0 -125 -125 -75 -75 N
+P 2 0 0 0 75 75 125 125 N
+P 3 0 0 0 75 125 125 125 125 75 N
+X ~ 1 0 -200 100 U 50 50 1 1 P
+X ~ 2 0 200 100 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Device_Battery
+#
+DEF Device_Battery BT 0 0 N N 1 F N
+F0 "BT" 100 100 50 H V L CNN
+F1 "Device_Battery" 100 0 50 H V L CNN
+F2 "" 0 60 50 V I C CNN
+F3 "" 0 60 50 V I C CNN
+DRAW
+S -80 -55 80 -65 0 1 0 F
+S -80 70 80 60 0 1 0 F
+S -52 -78 50 -98 0 1 0 F
+S -52 47 50 27 0 1 0 F
+P 2 0 1 0 0 -60 0 -50 N
+P 2 0 1 0 0 -40 0 -30 N
+P 2 0 1 0 0 -20 0 -10 N
+P 2 0 1 0 0 0 0 10 N
+P 2 0 1 0 0 20 0 30 N
+P 2 0 1 0 0 70 0 100 N
+P 2 0 1 10 10 105 50 105 N
+P 2 0 1 10 30 125 30 85 N
+X + 1 0 200 100 D 50 50 1 1 P
+X - 2 0 -200 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Device_CircuitBreaker_1P
+#
+DEF Device_CircuitBreaker_1P CB 0 20 Y Y 1 F N
+F0 "CB" 75 0 50 H V L CNN
+F1 "Device_CircuitBreaker_1P" 75 75 50 H V L CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 0 -200 0 -150 N
+P 2 0 1 0 0 -150 -100 150 N
+P 2 1 1 0 -25 175 25 125 N
+P 2 1 1 0 0 200 0 150 N
+P 2 1 1 0 25 175 -25 125 N
+X ~ 1 0 300 100 D 50 50 1 1 P
+X ~ 2 0 -300 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Device_Lamp
+#
+DEF Device_Lamp LA 0 1 N N 1 F N
+F0 "LA" 25 150 50 H V L CNN
+F1 "Device_Lamp" 25 -150 50 H V L CNN
+F2 "" 0 100 50 V I C CNN
+F3 "" 0 100 50 V I C CNN
+DRAW
+C 0 0 100 0 1 0 N
+P 2 0 1 0 -70 70 70 -70 N
+P 2 0 1 0 70 70 -70 -70 N
+X - 1 0 -200 100 U 50 50 1 1 P
+X + 2 0 200 100 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Device_Voltmeter_AC
+#
+DEF Device_Voltmeter_AC MES 0 1 N N 1 F N
+F0 "MES" -130 40 50 H V R CNN
+F1 "Device_Voltmeter_AC" -130 -30 50 H V R CNN
+F2 "" 0 100 50 V I C CNN
+F3 "" 0 100 50 V I C CNN
+DRAW
+A -20 -54 21 -1633 -167 0 1 0 N -40 -60 0 -60
+A 20 -65 21 140 1660 0 1 0 N 40 -60 0 -60
+C 0 0 100 0 1 10 N
+T 0 0 20 100 0 0 0 V Normal 0 C C
+P 2 0 0 0 -125 -125 -75 -75 N
+P 2 0 0 0 75 75 125 125 N
+P 3 0 0 0 75 125 125 125 125 75 N
+X ~ 1 0 -200 100 U 50 50 1 1 P
+X ~ 2 0 200 100 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
