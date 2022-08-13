@@ -1,0 +1,8 @@
+(module SPU0410LR5H-QB (layer F.Cu) (tedit 62E7C9FD)
+  (fp_text reference REF** (at 0 24.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value SPU0410LR5H-QB (at 0 23.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)

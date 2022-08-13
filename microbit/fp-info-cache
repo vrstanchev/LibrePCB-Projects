@@ -1,4 +1,4 @@
-18998296806181598
+18994972078232598
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -76292,20 +76292,6 @@ rotary encoder
 0
 5
 4
-STANCHEV
-ATMEGA-16A
-
-
-0
-40
-40
-STANCHEV
-ATtiny85
-
-
-0
-8
-8
 STANCHEV
 QFN40
 
