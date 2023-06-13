@@ -1,0 +1,10 @@
+(librepcb_component_category 601e717a-a29d-48d3-ad06-b18a0d1ca384
+ (name "ATTINY-DEVICES")
+ (description "")
+ (keywords "")
+ (author "veselin")
+ (version "0.1")
+ (created 2022-09-23T01:25:02Z)
+ (deprecated false)
+ (parent none)
+)

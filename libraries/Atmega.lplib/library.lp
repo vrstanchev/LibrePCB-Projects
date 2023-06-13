@@ -1,0 +1,10 @@
+(librepcb_library 88655849-2b86-499a-b062-bae2dfc452c5
+ (name "Atmega")
+ (description "Atmega_Devices")
+ (keywords "")
+ (author "veselin")
+ (version "0.1")
+ (created 2022-09-23T00:17:53Z)
+ (deprecated false)
+ (url "")
+)

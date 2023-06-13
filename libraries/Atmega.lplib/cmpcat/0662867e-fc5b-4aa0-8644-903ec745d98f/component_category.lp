@@ -1,0 +1,10 @@
+(librepcb_component_category 0662867e-fc5b-4aa0-8644-903ec745d98f
+ (name "ATMEGA-DEVICES")
+ (description "")
+ (keywords "")
+ (author "veselin")
+ (version "0.1")
+ (created 2022-09-23T00:23:43Z)
+ (deprecated false)
+ (parent none)
+)
