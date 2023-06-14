@@ -1,0 +1,10 @@
+(librepcb_component_category 70bb0e68-ca42-4a49-988c-3918de954987
+ (name "PIC-DEVICES")
+ (description "")
+ (keywords "")
+ (author "Stanchev")
+ (version "0.1")
+ (created 2023-06-13T08:13:06Z)
+ (deprecated false)
+ (parent none)
+)

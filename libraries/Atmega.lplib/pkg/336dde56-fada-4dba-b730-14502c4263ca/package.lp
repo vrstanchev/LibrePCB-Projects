@@ -1,0 +1,15 @@
+(librepcb_package 336dde56-fada-4dba-b730-14502c4263ca
+ (name "PIC10F320")
+ (description "")
+ (keywords "")
+ (author "Stanchev")
+ (version "0.1")
+ (created 2023-06-14T13:27:56Z)
+ (deprecated false)
+ (pad 7c187127-2526-404a-b98b-f7f7536d167d (name "1"))
+ (pad b05de473-7176-4f9a-abee-0c0b6de19671 (name "2"))
+ (footprint 84d124b3-a47f-47ba-961c-b394bacaaad4
+  (name "default")
+  (description "")
+ )
+)
