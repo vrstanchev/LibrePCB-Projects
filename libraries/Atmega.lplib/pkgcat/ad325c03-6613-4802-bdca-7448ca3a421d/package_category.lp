@@ -1,0 +1,10 @@
+(librepcb_package_category ad325c03-6613-4802-bdca-7448ca3a421d
+ (name "PIC-DEVICES")
+ (description "")
+ (keywords "")
+ (author "Stanchev")
+ (version "0.1")
+ (created 2023-06-15T13:05:28Z)
+ (deprecated false)
+ (parent none)
+)
