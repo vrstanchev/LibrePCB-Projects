@@ -42,7 +42,7 @@
   (pad 32bf4cc0-8f49-4561-97b9-137eb3325c83 (side tht) (shape round)
    (position 3.81 3.81) (rotation 0.0) (size 2.278 2.278) (drill 0.8)
   )
-  (polygon 17554e40-5357-41f9-a856-02124bba6a4d (layer top_placement)
+  (polygon 17554e40-5357-41f9-a856-02124bba6a4d (layer brd_outlines)
    (width 0.254) (fill false) (grab_area false)
    (vertex (position -2.54 5.08) (angle 0.0))
    (vertex (position 2.54 5.08) (angle 0.0))
