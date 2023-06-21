@@ -1,0 +1,10 @@
+(librepcb_package_category e28cdc3d-df4a-49ff-a53d-24160c755b07
+ (name "USB")
+ (description "")
+ (keywords "")
+ (author "Stanchev")
+ (version "0.1")
+ (created 2023-06-21T10:12:41Z)
+ (deprecated false)
+ (parent none)
+)
