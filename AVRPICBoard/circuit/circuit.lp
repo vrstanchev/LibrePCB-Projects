@@ -193,6 +193,12 @@
   (signal 7b023430-b68f-403a-80b8-c7deb12e7a0c (net ff1576fa-cf54-457d-8917-806c68af7169))
   (signal f1467b5c-cc7d-44b4-8076-d729f35b3a6a (net aad92fab-4b07-4a39-af1c-1ca012fd5521))
  )
+ (component f3b60f0c-e088-445a-954f-7f90d529d98b
+  (lib_component b91cf23a-4f07-4b99-8f52-0b42304aef20)
+  (lib_variant 0eebde17-6d45-4f73-95fe-3078a0f68ab6)
+  (lib_device none)
+  (name "LOGO1") (value "Made With\nLibrePCB")
+ )
  (component f879b029-ae20-46fb-9b76-f9eff2877068
   (lib_component 53625860-a92e-4fb1-ad48-7584025685a7)
   (lib_variant ea393b99-9dec-4cdc-824d-5d3994f8537a)
