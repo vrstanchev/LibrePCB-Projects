@@ -17,6 +17,9 @@
  (net 3d75a266-061f-4601-81e9-6d19b2e50ae1 (auto false) (name "LED0")
   (netclass fbe362cb-5f8e-48b6-8ebe-a0b0644d5cac)
  )
+ (net 3dddbfe7-e346-486c-a630-c0bcab14762e (auto false) (name "BTN")
+  (netclass fbe362cb-5f8e-48b6-8ebe-a0b0644d5cac)
+ )
  (net 47dbdb45-80b6-4193-aab8-8c6e52645e38 (auto false) (name "vrs1")
   (netclass fbe362cb-5f8e-48b6-8ebe-a0b0644d5cac)
  )
@@ -73,6 +76,13 @@
   (name "GND7") (value "GND")
   (signal ff161c97-29a5-43aa-a9ae-3ca7a66982ce (net ff1576fa-cf54-457d-8917-806c68af7169))
  )
+ (component 4d1c6829-187d-422f-a212-6eb9a3bd3291
+  (lib_component 8076f6be-bfab-4fc1-9772-5d54465dd7e1)
+  (lib_variant f09ad258-595b-4ee9-a1fc-910804a203ae)
+  (lib_device none)
+  (name "GND8") (value "GND")
+  (signal ff161c97-29a5-43aa-a9ae-3ca7a66982ce (net ff1576fa-cf54-457d-8917-806c68af7169))
+ )
  (component 67b797e8-0c65-4124-86c5-00f0b3cdc04e
   (lib_component 58c3c6cd-11eb-4557-aa3f-d3e05874afde)
   (lib_variant afb86b45-68ec-47b6-8d96-153d73567228)
@@ -92,7 +102,7 @@
   (signal 7b33145e-1495-45fd-b79e-0d2e1542b235 (net 27575acf-76bb-438f-bc00-fd5eb1f944b4))
   (signal 9bf28684-d42e-473a-9d20-fb0f8ed08d5a (net af06c2f6-67a6-4286-8276-1d1428cd1b72))
   (signal be89a978-6610-4598-8435-eb27fc83a64f (net none))
-  (signal cfb6ab3e-3f2a-413f-a5f9-3f2db01aa291 (net none))
+  (signal cfb6ab3e-3f2a-413f-a5f9-3f2db01aa291 (net 3dddbfe7-e346-486c-a630-c0bcab14762e))
  )
  (component 85aabf48-a673-40b8-a327-ef9754200c79
   (lib_component 8076f6be-bfab-4fc1-9772-5d54465dd7e1)
@@ -139,6 +149,13 @@
   (lib_device none)
   (name "GND4") (value "GND")
   (signal ff161c97-29a5-43aa-a9ae-3ca7a66982ce (net ff1576fa-cf54-457d-8917-806c68af7169))
+ )
+ (component bae01d04-7bc7-48fe-99bd-ca96f9eae2b4
+  (lib_component 58c3c6cd-11eb-4557-aa3f-d3e05874afde)
+  (lib_variant afb86b45-68ec-47b6-8d96-153d73567228)
+  (lib_device none)
+  (name "VCC3") (value "VCC")
+  (signal 1d893320-f811-4a79-b64e-cc23d749d394 (net af06c2f6-67a6-4286-8276-1d1428cd1b72))
  )
  (component bd3846d0-9ea5-4fd7-bee6-2cf40fc63799
   (lib_component 8076f6be-bfab-4fc1-9772-5d54465dd7e1)
@@ -198,6 +215,14 @@
   (signal cdf421d1-9410-4ce5-87a5-31fa83bd9dc7 (net d242a837-08c8-41c8-b0a6-7260b2655eba))
   (signal d28c2c43-1ae1-47dd-978c-1d6d7414f204 (net ff1576fa-cf54-457d-8917-806c68af7169))
  )
+ (component e6b7ee8e-ea06-4760-8e65-0be33688a676
+  (lib_component 6eedad0b-5b41-4233-9b7b-8be1ee8527e0)
+  (lib_variant 1517597d-d036-4ecd-95a9-a7b68f953a52)
+  (lib_device none)
+  (name "S1") (value "{{PARTNUMBER or DEVICE}}")
+  (signal 33616b61-b981-452a-a672-e564bfabf6b1 (net 3dddbfe7-e346-486c-a630-c0bcab14762e))
+  (signal 4c215f30-3492-4a32-94d3-7f3541afb7db (net ff1576fa-cf54-457d-8917-806c68af7169))
+ )
  (component f1933155-8e0e-4e0a-935f-e529c4e4996f
   (lib_component 2b24b18d-bd95-4fb4-8fe6-bce1d020ead4)
   (lib_variant ed0f0ca2-43ff-4a10-94c2-2958bc336586)
@@ -212,6 +237,15 @@
   (lib_variant 0eebde17-6d45-4f73-95fe-3078a0f68ab6)
   (lib_device none)
   (name "LOGO1") (value "Made With\nLibrePCB")
+ )
+ (component f5408ada-f579-46c0-bdaf-e948081cc1dd
+  (lib_component ef80cd5e-2689-47ee-8888-31d04fc99174)
+  (lib_variant a5995314-f535-45d4-8bd8-2d0b8a0dc42a)
+  (lib_device none)
+  (name "R5") (value "470")
+  (attribute "RESISTANCE" (type resistance) (unit ohm) (value ""))
+  (signal 3452d36e-1ce8-4b7c-8e5b-90c2e4929ed8 (net af06c2f6-67a6-4286-8276-1d1428cd1b72))
+  (signal ad623f98-9e73-49c3-9404-f7cfa99d17cd (net 3dddbfe7-e346-486c-a630-c0bcab14762e))
  )
  (component f8bb4e66-9268-4f17-878d-d7cf120c92d5
   (lib_component 8076f6be-bfab-4fc1-9772-5d54465dd7e1)
