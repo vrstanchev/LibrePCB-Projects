@@ -825,6 +825,16 @@
   )
  )
 
+ (plane b929ab17-9ae4-4e36-922c-6366641c7f7e (layer top_cu)
+  (net ff1576fa-cf54-457d-8917-806c68af7169) (priority 0)
+  (min_width 0.2) (min_clearance 0.3) (keep_orphans false)
+  (connect_style solid)
+  (vertex (position 21.59 72.39) (angle 0.0))
+  (vertex (position 40.005 72.39) (angle 0.0))
+  (vertex (position 40.64 17.78) (angle 0.0))
+  (vertex (position 21.59 17.78) (angle 0.0))
+ )
+
  (polygon ee1772ea-c5e6-42b6-984b-63947beb64b4 (layer brd_outlines)
   (width 0.0) (fill false) (grab_area false)
   (vertex (position 22.225 18.415) (angle 0.0))
