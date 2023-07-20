@@ -14,8 +14,8 @@ Project's software is licensed under GNU GPL v3 or later
 Project's documentation is licensed under GNU GPL v3 or later
 
 ## Contact Me
-[ Text me throught E-Mail](mailto:vrstanchev@gmail.com)
-#Follow me on:
-[GitHub](https://github.com/vrstanchev)
-[LinkedIn](https://www.linkedin.com/in/vrstanchev/)
-[Twitter](https://twitter.com/vrstanchev)
+[ Text me throught E-Mail](mailto:vrstanchev@gmail.com)  
+Follow me on: 
+[GitHub](https://github.com/vrstanchev)  
+[LinkedIn](https://www.linkedin.com/in/vrstanchev/)  
+[Twitter](https://twitter.com/vrstanchev)  
