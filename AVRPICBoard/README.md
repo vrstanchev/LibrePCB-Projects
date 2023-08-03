@@ -12,7 +12,9 @@ The module can be used for educational purposes powered by ATtiny85 and PIC10F32
 Project's hardware is licensed under CCO-1.0  
 Project's software is licensed under GNU GPL v3 or later  
 Project's documentation is licensed under GNU GPL v3 or later  
-
+## OSHWA Certification
+This is a [OSHWA Certificated](https://certification.oshwa.org/bg000096.html) project!
+![Project is certificated ](BG000096.png "23.08.02")
 ## Contact Me
 [ Text me throught E-Mail](mailto:vrstanchev@gmail.com)  
 Follow me on:   
