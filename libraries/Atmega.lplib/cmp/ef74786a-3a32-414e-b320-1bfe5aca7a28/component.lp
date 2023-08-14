@@ -8,7 +8,7 @@
  (deprecated false)
  (category 601e717a-a29d-48d3-ad06-b18a0d1ca384)
  (schematic_only false)
- (default_value "")
+ (default_value "{{ATTiny-85}}")
  (prefix "AT")
  (signal 5121afec-fa89-4ef2-88cd-2be2523769fd (name "PB0/MOSI/DI/SDA/AIN0/OC0A/#OC1A/") (role passive)
   (required true) (negated false) (clock false) (forced_net "")
