@@ -2,8 +2,8 @@
 LibrePCB Open-Source Hardware projects
 💻 🚀 
 ## License
-Projects hardware is licensed under CC-BY-SA-4.0  
-Projects software is licensed under GNU GPL v3 or later  
+Projects hardware part is licensed under CC-BY-SA-4.0  
+Projects software part is licensed under GNU GPL v3 or later  
 Projects documentation is licensed under GNU GPL v3 or later  
 ## Contact Me
 [ Text me throught E-Mail](mailto:vrstanchev@gmail.com)  
