@@ -1,6 +1,6 @@
 (librepcb_package 6fdaaadd-bb64-408a-81c4-06e4ccf6d7b7
  (name "ATTINY-85-PU")
- (description "")
+ (description "PDIP-8")
  (keywords "")
  (author "veselin")
  (version "0.1")

@@ -8,7 +8,7 @@
  (deprecated false)
  (category 70bb0e68-ca42-4a49-988c-3918de954987)
  (schematic_only false)
- (default_value "")
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
  (prefix "")
  (signal eca4d64a-ef0e-4691-b950-408cf5a940e9 (name "VDD") (role passive)
   (required true) (negated false) (clock false) (forced_net "")
