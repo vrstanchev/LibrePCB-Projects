@@ -1,6 +1,6 @@
 (librepcb_symbol 7a66de60-9278-46af-88f9-ad8ed38af81d
  (name "Attiny-85-PU")
- (description "PDIP-8")
+ (description "")
  (keywords "")
  (author "veselin")
  (version "0.1")

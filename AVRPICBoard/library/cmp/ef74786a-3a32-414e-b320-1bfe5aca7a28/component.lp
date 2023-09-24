@@ -6,6 +6,7 @@
  (version "0.1")
  (created 2022-09-23T01:21:41Z)
  (deprecated false)
+ (generated_by "")
  (category 601e717a-a29d-48d3-ad06-b18a0d1ca384)
  (schematic_only false)
  (default_value "{{ATTiny-85}}")
