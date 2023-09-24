@@ -17,10 +17,12 @@
  (pad c7f58f36-f75b-4e87-a994-f381920b2b01 (name "6"))
  (pad 442c0246-b4fe-4975-bf7d-a6ad25da15fb (name "7"))
  (pad a5ffd3cf-69b3-4310-8a4c-4b438fb0154b (name "8"))
+ (3d_model ab0aa3a8-b2c2-4be1-90df-66d98ea5524c (name "PIC10F320-I_P"))
  (footprint 84d124b3-a47f-47ba-961c-b394bacaaad4
   (name "default")
   (description "")
-  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_position -2.0 5.0 2.0) (3d_rotation 90.0 0.0 0.0)
+  (3d_model ab0aa3a8-b2c2-4be1-90df-66d98ea5524c)
   (pad 7c187127-2526-404a-b98b-f7f7536d167d (side top) (shape roundrect)
    (position -5.62 8.89) (rotation 180.0) (size 2.5 1.3) (radius 1.0)
    (stop_mask auto) (solder_paste off) (clearance 0.0) (function unspecified)

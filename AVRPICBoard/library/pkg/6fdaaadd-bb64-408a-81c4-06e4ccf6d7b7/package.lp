@@ -17,10 +17,12 @@
  (pad 6182f71b-caa1-4dda-b943-3ac8004f5e2d (name "6"))
  (pad b7462f51-7638-42c7-b6ea-bd5dd1d9a0ba (name "7"))
  (pad 32bf4cc0-8f49-4561-97b9-137eb3325c83 (name "8"))
+ (3d_model efa9d979-acd9-482a-b646-5b17f4befef5 (name "ATtiny85"))
  (footprint a8117b74-fdcc-4a9f-b0c7-8ee5a26eea6b
   (name "default")
   (description "")
-  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_position 0.0 0.0 2.0) (3d_rotation 90.0 0.0 0.0)
+  (3d_model efa9d979-acd9-482a-b646-5b17f4befef5)
   (pad ae2611ce-86bf-443f-8f7b-f8131690b498 (side top) (shape roundrect)
    (position -3.81 3.81) (rotation 0.0) (size 2.278 2.278) (radius 1.0)
    (stop_mask auto) (solder_paste off) (clearance 0.0) (function unspecified)
