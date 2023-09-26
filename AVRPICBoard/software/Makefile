@@ -5,3 +5,5 @@ protocol: protocol.o
 run: protocol
 	./protocol
 	echo $?
+clean: protocol protocol.o
+	rm protocol protocol.o
