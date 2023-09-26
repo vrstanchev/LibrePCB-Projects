@@ -1,4 +1,5 @@
 ;data constants
+section .data
 STRT_BIT equ 1
 BTS equ 101
 STPBIT equ 0
