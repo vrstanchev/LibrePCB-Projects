@@ -9,6 +9,8 @@ The module can be used for educational purposes powered by ATtiny85 and PIC10F32
   It will be used for PhD Degree @ TU-Plovdiv.
 ## Research paper for the project
 Research article is avaiable [AVR/PICBoard](https://www.researchgate.net/publication/373769433_Designing_Microcontroller_module_with_target_to_use_AVRPIC_assembler).
+## AVR/PIC Board 3D model Look
+![Project 3D Model ](AVRPICBoard-3D.png "3D v1.0")
 ## Circuit Simulation
 Circuit from schematic is ready for simulation.  Simulation is possible here [Wokwi AVR/PICBoard](https://wokwi.com/projects/380589676899712001)
 ## OSHWA Certification
