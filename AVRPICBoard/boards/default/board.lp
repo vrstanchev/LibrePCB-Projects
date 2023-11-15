@@ -1,5 +1,5 @@
 (librepcb_board 42ce8c9a-5615-4860-8d9f-4fd2e2c893a7
- (name "default")
+ (name "AVRPIC_v1.0")
  (default_font "newstroke.bene")
  (grid (interval 0.635) (unit millimeters))
  (layers (inner 0))

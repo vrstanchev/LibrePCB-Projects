@@ -1,5 +1,5 @@
 (librepcb_schematic b854841e-ff8f-41cd-a40e-fd4bc4953638
- (name "Main")
+ (name "AVRPIC Board v1.0")
  (grid (interval 2.54) (unit millimeters))
  (symbol 0cb731b4-0eac-4ac2-97bc-cc6abc0c6063
   (component 85aabf48-a673-40b8-a327-ef9754200c79)
