@@ -1,0 +1,9 @@
+.include “pic10f320.inc”
+.org 0
+pic_func:
+CLRF PORTA
+MOVLW B‘00000100’
+MOVLW B‘00001000’
+MOVLW B‘00000100’
+MOVLW B‘00001000’
+call vrstanchev
