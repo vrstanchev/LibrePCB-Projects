@@ -25,8 +25,8 @@
 
 ## 🏗️ Featured Projects  
 
-🚀 **[AVRPICBoard](https://github.com/vrstanchev/LibrePCB-Projects/AVRPICBoard)** – AVR & PIC development board for embedded systems.  
-⚡ **[PICPICBoard](https://github.com/vrstanchev/LibrePCB-Projects/PICPICBoard)** – High-performance PIC microcontroller board.  
+🚀 **[AVRPICBoard](https://github.com/vrstanchev/LibrePCB-Projects/tree/master/AVRPICBoard)** – AVR & PIC development board for embedded systems.  
+⚡ **[PICPICBoard](https://github.com/vrstanchev/LibrePCB-Projects/tree/master/PICPICBoard)** – High-performance PIC microcontroller board.  
 
 _(More projects dropping soon! Stay tuned.)_  
 
